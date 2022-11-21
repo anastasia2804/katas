@@ -17,3 +17,4 @@ function maxSubarraySum (myArr, num) {
 }
 
 console.log(maxSubarraySum([1,4,5,6,7,8,5,6,7], 3))
+console.log(maxSubarraySum([], 2))
